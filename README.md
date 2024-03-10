@@ -6,7 +6,7 @@ DC인사이드의 실시간 베스트 게시물의 이미지들을 수집해 썸
 
 ---
 # Usage
-1. python verison 3.10 환경 준비
+1. python version 3.10 환경 준비
 2. requirements 설치 및 실행
    ```python
    pip install requirements.txt
